@@ -1,0 +1,13 @@
+C:\Users\manis\source\repos\Food_Ordering_App\Food_Ordering_App\bin\Debug\Food_Ordering_App.exe.config
+C:\Users\manis\source\repos\Food_Ordering_App\Food_Ordering_App\bin\Debug\Food_Ordering_App.exe
+C:\Users\manis\source\repos\Food_Ordering_App\Food_Ordering_App\bin\Debug\Food_Ordering_App.pdb
+C:\Users\manis\source\repos\Food_Ordering_App\Food_Ordering_App\obj\Debug\Food_Ordering_App.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\Food_Ordering_App\Food_Ordering_App\obj\Debug\Food_Ordering_App.exe
+C:\Users\manis\source\repos\Food_Ordering_App\Food_Ordering_App\obj\Debug\Food_Ordering_App.pdb
+C:\Users\Training\Desktop\re\Food_Ordering_App\Food_Ordering_App\bin\Debug\Food_Ordering_App.exe.config
+C:\Users\Training\Desktop\re\Food_Ordering_App\Food_Ordering_App\bin\Debug\Food_Ordering_App.exe
+C:\Users\Training\Desktop\re\Food_Ordering_App\Food_Ordering_App\bin\Debug\Food_Ordering_App.pdb
+C:\Users\Training\Desktop\re\Food_Ordering_App\Food_Ordering_App\obj\Debug\Food_Ordering_App.csprojAssemblyReference.cache
+C:\Users\Training\Desktop\re\Food_Ordering_App\Food_Ordering_App\obj\Debug\Food_Ordering_App.csproj.CoreCompileInputs.cache
+C:\Users\Training\Desktop\re\Food_Ordering_App\Food_Ordering_App\obj\Debug\Food_Ordering_App.exe
+C:\Users\Training\Desktop\re\Food_Ordering_App\Food_Ordering_App\obj\Debug\Food_Ordering_App.pdb
