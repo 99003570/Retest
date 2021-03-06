@@ -16,7 +16,7 @@ namespace Food_Ordering_App.Tests
         {
             double expected = 88;
             VisitorOrder VObj = new VisitorOrder();
-            double actual = VObj.CheckoutVisitor(2, 2, "Sandy");
+            double actual = VObj.CheckoutVisitor(2, 2, "Abhilipsa");
             Assert.AreEqual(actual, expected);
         }
     }
